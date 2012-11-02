@@ -1,3 +1,11 @@
+**This gem has been moved to the [mince](https://github.com/coffeencoke/mince) core gem, and this repo is deprecated**
+
+# Version 2.0 Release Notice
+
+Version 2.0 is currently in preview, available on <http://rubygems.org> and at [@coffeencoke's github repo](https://github.com/coffeencoke)
+
+This repo will be moved to @coffeencoke once version 2.0 is officially released.
+
 # MinceModel
 
 Common model behavior for objects backed by Mince
